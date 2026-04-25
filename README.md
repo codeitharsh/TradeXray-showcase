@@ -59,6 +59,11 @@ TradeXray helps you:
   <img src="./screenshots/dashboard.png" width="80%" />
   <br/><br/>
   <img src="./screenshots/trades.png" width="80%" />
+  <br/><br/>
+  <img src="./screenshots/AI1" width="80%" />
+  <br/><br/>
+  <img src="./screenshots/AI2" width="80%" />
+  
 </p>
 
 ---

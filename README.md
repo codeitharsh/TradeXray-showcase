@@ -48,7 +48,7 @@ TradeXray helps you:
 ## 🎥 Product Demo
 
 <p align="center">
-  <img src="./screenshots/demo.gif" width="90%" />
+  <img src="./screenshots/DEMO1.gif" width="90%" />
 </p>
 
 ---
